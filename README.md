@@ -1,4 +1,4 @@
-# Paola Galdi
+# Paola Galdi, PhD
 
 ## About Me
 
@@ -66,6 +66,24 @@ Project: Application of AI techniques and knowledge representation methods to el
 - **Short-term scientific mission (STSM) grant (€1,580)**: Visit to the Center of Functionally Integrative Neuroscience, Aarhus University. Issued by COST Action 18106 - The neural architecture of consciousness (March 2020)
 - **Travel grant (£2,120)**: Collaborative visit to the Adolphs Lab, Caltech. Issued by Simons Initiative for the Developing Brain (November 2018)
 - **Travel grant (£600)**: Attendance at the International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2018). Issued by Guarantors of the brain (July 2018)
+
+## Contributions to Funded Projects
+
+- **Operation TOM (Enhancing Astronaut Neuro-Imaging Capabilities: Toolbox Optimization & Modification)** (€80,000)
+  - Role: Supervision of MRI processing and software development
+  - PI: Dr Claude Bajada — Issued by Malta Council for Science & Technology (MCST) through the FUSION Research and Innovation: Space Upstream Programme (September 2023)
+
+- **Measuring the ARchitecture of Consciousness (MARC) Project** (€49,971)
+  - Role: Supervision of multi-modal MRI data analysis
+  - PI: Dr Claude Bajada — Issued by Malta Council for Science & Technology (MCST) through the Research Excellence Programme (grant no. REP_2022_005) (June 2022)
+
+- **Amygdala Connectivity in Autism** ($200,000)
+  - Role: Software development and functional connectivity analysis design
+  - PI: Prof Dorit Kliemann — Issued by Eagles Foundation (July 2021)
+
+- **NeuroDataRR: Predicting intelligence from resting-state fMRI: parcellation, pipelines and models** ($578,971)
+  - Role: Design of an open-source pipeline for resting-state fMRI denoising
+  - PI: Prof Ralph Adolps — Issued by National Science Foundation (August 2018)
 
 ## Conference Presentations
 
