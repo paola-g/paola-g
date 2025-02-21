@@ -28,7 +28,7 @@ My research experience spans various domains, including omics and neuroimaging d
 **Research Associate**  
 Artificial Intelligence and its Application Institute, University of Edinburgh  
 Project: Application of AI techniques and knowledge representation methods to electronic health record data  
-**Duration:** September 2022 – March 2025
+**Duration:** September 2022 – Present
 
 ## Previous Experience
 
