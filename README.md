@@ -25,13 +25,20 @@ My research experience spans various domains, including omics and neuroimaging d
 
 ## Current Position
 
-**Research Associate**  
-Artificial Intelligence and its Application Institute, University of Edinburgh  
-Project: Application of AI techniques and knowledge representation methods to electronic health record data  
-**Duration:** September 2022 – Present
+**Data Coordinator**  
+Data Science and Data Management Team, Cancer Research UK Scotland Institute  
+Project: SPLICE - Scientific Platform for Life sciences data Integration, Collaboration and Exploration
+
+**Duration:** June 2025 – Present
+
+
 
 ## Previous Experience
 
+- **Research Associate**  
+  Artificial Intelligence and its Application Institute, University of Edinburgh  
+  Project: Application of AI techniques and knowledge representation methods to electronic health record data  
+  **Duration:** September 2022 – April 2025
 - **Postdoctoral Research Fellow in Neuroimaging**  
   MRC Centre for Reproductive Health, University of Edinburgh  
   Project: Predicting the neurodevelopmental outcome of preterm birth using multimodal data collected from the Theirworld Edinburgh Birth Cohort  
