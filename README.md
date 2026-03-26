@@ -76,6 +76,10 @@ Project: SPLICE - Scientific Platform for Life sciences data Integration, Collab
 
 ## Contributions to Funded Projects
 
+- **SARA: Synthetic Anatomy for Radiological Applications - Generating a Functional MRI Phantom** (€79,999)
+  - Role: Denoising strategies and software reproducibility testing
+  - PI: Dr Claude Bajada — Issued by the University of Malta through the Internal UM Research Excellence Funds 2024 Call
+
 - **Operation TOM (Enhancing Astronaut Neuro-Imaging Capabilities: Toolbox Optimization & Modification)** (€80,000)
   - Role: Supervision of MRI processing and software development
   - PI: Dr Claude Bajada — Issued by Malta Council for Science & Technology (MCST) through the FUSION Research and Innovation: Space Upstream Programme (September 2023)
